@@ -1,2 +1,7 @@
 Solution fully set up for unit tests.
 It works with Visual Studio Express. That's a point.
+
+--
+Update (the fall of 2014).
+Microsoft got the point and now provides UnitTesting framework to VS Express users too.
+Please delete this project and save your hard disk space.
